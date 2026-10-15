@@ -170,17 +170,5 @@ The application supports both Razorpay and Stripe-based payment integration.
 - This project is designed for local development and demonstration.
 - Make sure MongoDB is running before starting the backend.
 - Use test keys in development to avoid live transactions.
+- https://docs.stripe.com/testing for payment gateway testing (Stripe Doc)
 
-## Future Improvements
-
-- Admin dashboard
-- Product image upload
-- Search and filters
-- Coupon and discount system
-- Payment refunds and cancellations
-- Better order status management
-- Email notifications
-
-## License
-
-This project is for educational and learning purposes.
